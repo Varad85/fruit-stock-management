@@ -1,5 +1,5 @@
 {
-  "name": "nodejs-rest-http-crud",
+  "name": "fruit-stock-management",
   "version": "4.0.0",
   "description": "",
   "author": "Red Hat, Inc.",
@@ -59,6 +59,7 @@
     "express": "~4.18.1",
     "kube-service-bindings": "^2.1.0",
     "pg": "^8.7.3",
-    "pino": "^8.7.0"
+    "pino": "^8.7.0",
+    "morgan": "^1.10.0"
   }
 }
